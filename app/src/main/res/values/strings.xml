@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SculptFinal</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="fill_out_the_fields_below">Fill out the fields below</string>
+    <string name="lose_weight">Lose weight</string>
+    <string name="gain_muscle">Gain muscle</string>
+    <string name="name">Name</string>
+    <string name="Password">password</string>
+    <string name="password">Password</string>
+    <string name="birth_date">Birth date</string>
+    <string name="current_weight">Current weight</string>
+    <string name="desired_weight">Desired weight</string>
+    <string name="submit_button">Submit</string>
+    <string name="backButton">Submit</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CircleShape" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">105%</item>
+
+    </style>
+    <style name="App.CardView" parent="CardView">
+        <item name="cardBackgroundColor">@color/light_blue</item>
+        <!-- Add any other style attributes you want to standardize across all CardViews -->
+    </style>
+
+</resources>
